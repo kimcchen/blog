@@ -1,3 +1,3 @@
 # About Me
 
-blahblahblhabla
+a very inspirational person
