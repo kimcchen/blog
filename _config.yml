@@ -29,7 +29,7 @@ twitter_username: kimcchen1
 github_username:  kimcchen
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman-blog
 plugins:
   - jekyll-feed
 
