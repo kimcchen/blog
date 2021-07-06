@@ -1,6 +1,6 @@
 # Setup
 title:               Kimberly's Blog
-# tagline:             'A Jekyll theme'
+tagline:             'My project showcase'
 description:         "wassup ;) I'll be posting my CS adventures, projects, and achievements here!"
 url:                 https://kimcchen.github.io/
 baseurl:             /
